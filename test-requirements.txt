@@ -1,0 +1,17 @@
+asyncio
+falcon
+falcon-auth==1.0.3; python_version == '2.7'
+falcon-auth; python_version >= '3.5'
+Flask
+sanic; python_version >= '3.5'
+sanic-testing==0.3.0; python_version >= '3.5'
+aiohttp; python_version >= '3.5'
+sonic182-json-validator
+pytest
+pytest-cov
+pytest-mock
+pylint==1.9.5; python_version == '2.7'
+pylint==2.5.3; python_version >= '3.5'
+tox
+django==1.11.29; python_version == '2.7'
+django==2.2.28; python_version >= '3.5'
